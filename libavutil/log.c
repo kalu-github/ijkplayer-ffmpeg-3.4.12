@@ -39,7 +39,6 @@
 #include "common.h"
 #include "internal.h"
 #include "log.h"
-#include "cde_log.c"
 
 #if HAVE_PTHREADS
 #include <pthread.h>

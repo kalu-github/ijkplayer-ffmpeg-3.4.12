@@ -79,7 +79,6 @@ HEADERS = adler32.h                                                     \
           application.h                                                 \
           dns_cache.h                                                   \
           thread.h                                                      \
-          cde_log.h                                                     \
 
 HEADERS-$(CONFIG_LZO)                   += lzo.h
 
